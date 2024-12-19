@@ -5,21 +5,22 @@
 Here’s a detailed description in bullet points:
 
 Dashboard Creation:
--Identify critical Key Performance Indicators (KPIs) aligned with business objectives.
--Design intuitive, visually appealing dashboards with interactive visualizations.
--Incorporate filtering capabilities to enable exploration of data at various levels of granularity.
 
+Identify critical Key Performance Indicators (KPIs) aligned with business objectives.
+Design intuitive, visually appealing dashboards with interactive visualizations.
+Incorporate filtering capabilities to enable exploration of data at various levels of granularity.
 Data Analysis:
--Perform in-depth analysis of historical and current sales data.
--Highlight trends, patterns, and anomalies using engaging charts and graphs.
--Provide insights into the effectiveness of sales strategies and identify areas for improvement.
 
+Perform in-depth analysis of historical and current sales data.
+Highlight trends, patterns, and anomalies using engaging charts and graphs.
+Provide insights into the effectiveness of sales strategies and identify areas for improvement.
 Sales Forecasting:
--Utilize historical data to apply advanced time series analysis techniques.
--Generate accurate sales forecasts for the next 15 days.
--Enable businesses to optimize inventory management, plan promotional campaigns, and anticipate demand.
 
+Utilize historical data to apply advanced time series analysis techniques.
+Generate accurate sales forecasts for the next 15 days.
+Enable businesses to optimize inventory management, plan promotional campaigns, and anticipate demand.
 Actionable Insights and Recommendations:
--Deliver insights that transform raw data into meaningful and actionable information.
--Provide strategic recommendations that align with growth, efficiency, and customer satisfaction goals.
--Support informed decision-making to enhance overall business performance.
+
+Deliver insights that transform raw data into meaningful and actionable information.
+Provide strategic recommendations that align with growth, efficiency, and customer satisfaction goals.
+Support informed decision-making to enhance overall business performance.
